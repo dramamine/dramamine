@@ -8,8 +8,6 @@ If you're curious about my code, here are a couple repositories worth looking at
   - Technologies: Python, Arduino
 - [lightdream-artnet](https://github.com/dramamine/lightdream-artnet): Play back prerecorded Artnet light shows on a Raspberry Pi 4
   - Technologies: Python, C++
-- [elder-sign-probability-calculator](https://github.com/dramamine/elder-sign-probability-calculator)
-- - Technologies: Rust, Webassembly, Next.js, Tailwind
 - [ffgl](https://github.com/dramamine/ffgl): Some code related to blog posts I wrote on creating effects plugins for Resolume Arena using
   - Blog post: [Writing FFGL Plugins for Resolume Arena](https://metal-heart.org/writing-ffgl-plugins-for-resolume-arena-7/)
   - Youtube tutorial: [How to Write FFGL Effects Plugins for Resolume 7](https://www.youtube.com/watch?v=26uzqRbxRUk)
