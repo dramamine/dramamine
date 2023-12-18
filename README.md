@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-If you're curious about my LED art and other projects, check out my portfolio site at [metal-heart.org](https://metal-heart.org).
+If you're curious about my LED art and other projects, check out my portfolio site at [metal-heart.org](https://metal-heart.org). I'm the art lead for Hypnodrome, an 11-person collective that builds large-scale LED art for festivals such as Burning Man, Portland Winter Lights, and Lusio.
 
 If you're curious about my code, here are a couple repositories worth looking at:
 
@@ -8,7 +8,7 @@ If you're curious about my code, here are a couple repositories worth looking at
   - Technologies: Python, Arduino
 - [lightdream-artnet](https://github.com/dramamine/lightdream-artnet): Play back prerecorded Artnet light shows on a Raspberry Pi 4
   - Technologies: Python, C++
-- [ffgl](https://github.com/dramamine/ffgl): Some code related to blog posts I wrote on creating effects plugins for Resolume Arena using
+- [ffgl](https://github.com/dramamine/ffgl): Some code related to blog posts I wrote on creating effects plugins for Resolume Arena (VJ software)
   - Blog post: [Writing FFGL Plugins for Resolume Arena](https://metal-heart.org/writing-ffgl-plugins-for-resolume-arena-7/)
   - Youtube tutorial: [How to Write FFGL Effects Plugins for Resolume 7](https://www.youtube.com/watch?v=26uzqRbxRUk)
   - Technologies: C++, OpenGL, GLSL
